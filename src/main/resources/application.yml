@@ -1,0 +1,6 @@
+server:
+  port: 8080
+
+github:
+  clientId: <insert_here>
+  clientSecret: <insert_here>
